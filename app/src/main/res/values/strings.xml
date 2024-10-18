@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Student Registration</string>
+
+    <!-- Course List -->
+    <string-array name="courses_array">
+        <item>B.Sc Computer Science</item>
+        <item>B.A. Economics</item>
+        <item>B.Com</item>
+        <item>B.Tech Information Technology</item>
+    </string-array>
+
+    <!-- Hint Texts -->
+    <string name="hint_firstname">Enter your firstname</string>
+    <string name="hint_middlename">Enter your middlename</string>
+    <string name="hint_lastname">Enter your lastname</string>
+    <string name="hint_phone">Enter your phone number</string>
+    <string name="hint_address">Enter your address</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="hint_repassword">Re-type your password</string>
+</resources>
